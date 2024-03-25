@@ -1,8 +1,26 @@
-#my-header {
-  background-color: rgb(344, 102, 2);
-  padding: 45px text-align: center;
-</style>
-<body style="background-color:lightskyblue;">
-<h1 id="my-header">style is important</h1>
-<p style="background-color:aquamarine;">proper HTML style is important</p>
-<img src="./images/beautiful-tropical-sunset-scenery-two-sun-beds-royalty-free-image-1595368231.jpg" alt="style">
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <style>
+  body {
+    background-color: light pink;
+  }
+
+  h1 {
+    color:blanchedalmond;
+    text-align: center;
+  }
+
+  p {
+    font-family: Serif;
+    font-size: 15px;
+  }
+  </style>
+  </head>
+  <body>
+
+  <h1>My 2024 Summer To-Do List:</h1>
+  <p>Where and who am I spending my summer with?</p>
+
+  </body>
+  </html>
