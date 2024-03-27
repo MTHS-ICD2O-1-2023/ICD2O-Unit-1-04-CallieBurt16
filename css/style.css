@@ -1,26 +1,19 @@
-  <!DOCTYPE html>
-  <html>
-  <head>
-  <style>
-  body {
-    background-color: light pink;
-  }
 
-  h1 {
-    color:blanchedalmond;
-    text-align: center;
-  }
+body {
+  background-color: light pink;
+}
 
-  p {
-    font-family: Serif;
-    font-size: 15px;
-  }
-  </style>
-  </head>
-  <body>
+h1 {
+  color:rgb(123, 207, 220);
+  text-align: center;
+}
 
-  <h1>My 2024 Summer To-Do List:</h1>
-  <p>Where and who am I spending my summer with?</p>
+p {
+  font-family: Serif;
+  font-size: 15px;
+}
 
-  </body>
-  </html>
+#my-header {
+  background-color: rgb(344, 102, 2);
+  padding: 45px text-align: center;
+}
